@@ -15,9 +15,9 @@ import java.util.*;
                 reverse = reverse + original.charAt(i);
 
                 if (original.equals(reverse)) 
-                    System.out.println(reverse + " is Palindrome!");
+                    System.out.println(reverse + " is Palindrome!!");
                  else 
-                    System.out.println(reverse + " is Not Palindrome!");  
+                    System.out.println(reverse + " is Not Palindrome!!");  
                 
             
         }
